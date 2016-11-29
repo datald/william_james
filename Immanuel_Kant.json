@@ -1,1 +1,20 @@
-{"deathPlace": "K\u00f6nigsberg, Prussia", "jobTitle": "Philosopher", "knows": "https://en.wikipedia.org/wiki/Thomas_Kingsmill_Abbott", "@context": ["http://schema.org"], "givenName": "Immanuel", "url": "https://en.wikipedia.org/wiki/Immanuel_Kant", "familyName": "Kant", "address": "K\u00f6nigsberg, Prussia", "homeLocation": "K\u00f6nigsberg, Prussia", "deathDate": "+1804-02-12T00:00:00Z", "description": "Immanuel Kant (/k\u00e6nt/; German: [\u026a\u02c8ma\u02d0nu\u032fe\u02d0l kant]; 22 April 1724 \u2013 12 February 1804) was a German philosopher who is considered the central figure of modern philosophy. Kant argued that the human mind creates the structure of human experience, that reason is the source of morality, that aesthetics arises from a faculty of disinterested judgment, that space and time are forms of our sensibility, and that the world as it is 'in-itself' is independent of our concepts of it. Kant took himself to have effected a Copernican revolution in philosophy, akin to Copernicus' reversal of the age-old belief that the sun revolved around the earth. His beliefs continue to have a major influence on contemporary philosophy, especially the fields of metaphysics, epistemology, ethics, political theory, and aesthetics. Kant in his critical phase sought to 'reverse' the orientation of pre-critical philosophy by showing how the traditional problems of metaphysics can be overcome by supposing that the agreement between reality and the concepts we use to conceive it arises not because our mental concepts have come to passively mirror reality, but because reality must conform to the human mind's active concepts to be conceivable and at all possible for us to experience. Kant thus regarded the basic categories of the human mind as the transcendental 'condition of possibility' for any experience.", "sameAs": "https://en.wikipedia.org/wiki/Immanuel_Kant", "name": "Immanuel_Kant", "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Immanuel_Kant_%28painted_portrait%29.jpg", "birthPlace": "Kaliningrad, Russia", "@type": ["Person"], "birthDate": "+1724-04-22T00:00:00Z", "honorificPrefix": ""}
+{
+  "deathPlace": "K\u00f6nigsberg, Prussia",
+  "jobTitle": "Philosopher",
+  "knows": "https://en.wikipedia.org/wiki/Thomas_Kingsmill_Abbott",
+  "@context": ["http://schema.org"],
+  "givenName": "Immanuel",
+  "url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+  "familyName": "Kant",
+  "address": "K\u00f6nigsberg, Prussia",
+  "homeLocation": "K\u00f6nigsberg, Prussia",
+  "deathDate": "+1804-02-12T00:00:00Z",
+  "description": "Immanuel Kant (/k\u00e6nt/; German: [\u026a\u02c8ma\u02d0nu\u032fe\u02d0l kant]; 22 April 1724 \u2013 12 February 1804) was a German philosopher who is considered the central figure of modern philosophy. Kant argued that the human mind creates the structure of human experience, that reason is the source of morality, that aesthetics arises from a faculty of disinterested judgment, that space and time are forms of our sensibility, and that the world as it is 'in-itself' is independent of our concepts of it. Kant took himself to have effected a Copernican revolution in philosophy, akin to Copernicus' reversal of the age-old belief that the sun revolved around the earth. His beliefs continue to have a major influence on contemporary philosophy, especially the fields of metaphysics, epistemology, ethics, political theory, and aesthetics. Kant in his critical phase sought to 'reverse' the orientation of pre-critical philosophy by showing how the traditional problems of metaphysics can be overcome by supposing that the agreement between reality and the concepts we use to conceive it arises not because our mental concepts have come to passively mirror reality, but because reality must conform to the human mind's active concepts to be conceivable and at all possible for us to experience. Kant thus regarded the basic categories of the human mind as the transcendental 'condition of possibility' for any experience.",
+  "sameAs": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+  "name": "Immanuel_Kant",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Immanuel_Kant_%28painted_portrait%29.jpg",
+  "birthPlace": "Kaliningrad, Russia",
+  "@type": ["Person"],
+  "birthDate": "+1724-04-22T00:00:00Z",
+  "honorificPrefix": ""
+}

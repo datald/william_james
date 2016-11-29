@@ -1,1 +1,11 @@
-{"additionalType": "", "name": "Logical_positivism", "@context": ["http://schema.org"], "image": "", "url": "https://en.wikipedia.org/wiki/Logical_positivism", "alternateName": "", "@type": ["Thing"], "sameAs": "https://en.wikipedia.org/wiki/Logical_positivism", "description": "Logical positivism and logical empiricism, which together formed neopositivism, was a movement in Western philosophy that sought to legitimize philosophical discourse by placing it on a basis shared with empirical sciences' best examples, such as Einstein's general theory of relativity. Its central thesis was verificationism, a theory of knowledge which asserted that only statements verifiable through empirical observation are cognitively meaningful. Efforts to convert philosophy to this new scientific philosophy were intended to prevent confusion rooted in unclear language and unverifiable claims. The Berlin Circle and the Vienna Circle\u2014groups of philosophers, scientists, and mathematicians in Berlin and in Vienna\u2014propounded logical positivism starting in the late 1920s."}
+{
+  "additionalType": "",
+  "name": "Logical_positivism",
+  "@context": ["http://schema.org"],
+  "image": "",
+  "url": "https://en.wikipedia.org/wiki/Logical_positivism",
+  "alternateName": "",
+  "@type": ["Thing"],
+  "sameAs": "https://en.wikipedia.org/wiki/Logical_positivism",
+  "description": "Logical positivism and logical empiricism, which together formed neopositivism, was a movement in Western philosophy that sought to legitimize philosophical discourse by placing it on a basis shared with empirical sciences' best examples, such as Einstein's general theory of relativity. Its central thesis was verificationism, a theory of knowledge which asserted that only statements verifiable through empirical observation are cognitively meaningful. Efforts to convert philosophy to this new scientific philosophy were intended to prevent confusion rooted in unclear language and unverifiable claims. The Berlin Circle and the Vienna Circle\u2014groups of philosophers, scientists, and mathematicians in Berlin and in Vienna\u2014propounded logical positivism starting in the late 1920s."
+}

@@ -1,1 +1,20 @@
-{"deathPlace": "Highgate, Middlesex, England", "jobTitle": "Philosopher", "knows": "", "@context": ["http://schema.org"], "givenName": "Francis", "url": "https://en.wikipedia.org/wiki/Francis_Bacon", "familyName": "Bacon", "address": "London, England", "homeLocation": "London, England", "deathDate": ["+1626-04-09T00:00:00Z"], "description": "Francis Bacon, 1st Viscount St Alban PC KC (/\u02c8be\u026ak\u0259n/; 22 January 1561 \u2013 9 April 1626) was an English philosopher, statesman, scientist, jurist, orator, and author. He served both as Attorney General and as Lord Chancellor of England. After his death, he remained extremely influential through his works, especially as philosophical advocate and practitioner of the scientific method during the scientific revolution. Bacon has been called the father of empiricism. His works argued for the possibility of scientific knowledge based only upon inductive and careful observation of events in nature. Most importantly, he argued this could be achieved by use of a skeptical and methodical approach whereby scientists aim to avoid misleading themselves. While his own practical ideas about such a method, the Baconian method, did not have a long lasting influence, the general idea of the importance and possibility of a skeptical methodology makes Bacon the father of scientific method. This marked a new turn in the rhetorical and theoretical framework for science, the practical details of which are still central in debates about science and methodology today.", "sameAs": "https://www.wikidata.org/wiki/Q37388", "name": "Francis Bacon", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pourbus_Francis_Bacon.jpg", "birthPlace": "Strand, London, England", "@type": ["Person"], "additionalName": "Francis Bacon, 1st Viscount St Alban", "birthDate": "+1561-01-22T00:00:00Z"}
+{
+  "deathPlace": "Highgate, Middlesex, England",
+  "jobTitle": "Philosopher",
+  "knows": "",
+  "@context": ["http://schema.org"],
+  "givenName": "Francis",
+  "url": "https://en.wikipedia.org/wiki/Francis_Bacon",
+  "familyName": "Bacon",
+  "address": "London, England",
+  "homeLocation": "London, England",
+  "deathDate": ["+1626-04-09T00:00:00Z"],
+  "description": "Francis Bacon, 1st Viscount St Alban PC KC (/\u02c8be\u026ak\u0259n/; 22 January 1561 \u2013 9 April 1626) was an English philosopher, statesman, scientist, jurist, orator, and author. He served both as Attorney General and as Lord Chancellor of England. After his death, he remained extremely influential through his works, especially as philosophical advocate and practitioner of the scientific method during the scientific revolution. Bacon has been called the father of empiricism. His works argued for the possibility of scientific knowledge based only upon inductive and careful observation of events in nature. Most importantly, he argued this could be achieved by use of a skeptical and methodical approach whereby scientists aim to avoid misleading themselves. While his own practical ideas about such a method, the Baconian method, did not have a long lasting influence, the general idea of the importance and possibility of a skeptical methodology makes Bacon the father of scientific method. This marked a new turn in the rhetorical and theoretical framework for science, the practical details of which are still central in debates about science and methodology today.",
+  "sameAs": "https://www.wikidata.org/wiki/Q37388",
+  "name": "Francis Bacon",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pourbus_Francis_Bacon.jpg",
+  "birthPlace": "Strand, London, England",
+  "@type": ["Person"],
+  "additionalName": "Francis Bacon, 1st Viscount St Alban",
+  "birthDate": "+1561-01-22T00:00:00Z"
+}

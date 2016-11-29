@@ -1,1 +1,19 @@
-{"givenName": "Jorge", "jobTitle": "philosopher, essayist, poet, and novelist", "deathDate": "+1952-09-26T00:00:00Z", "additionalName": "Jorge Agust\u00edn Nicol\u00e1s Ruiz de Santayana y Borr\u00e1s", "deathPlace": "Rome, Italy", "url": "https://en.wikipedia.org/wiki/George_Santayana", "birthDate": "+1863-12-16T00:00:00Z", "sameAs": "", "@type": ["Person"], "birthPlace": "Madrid, Spain", "description": "Jorge Agust\u00edn Nicol\u00e1s Ruiz de Santayana y Borr\u00e1s, known in English as George Santayana (/\u02ccs\u00e6nti\u02c8\u00e6n\u0259/ or /-\u02c8\u0251\u02d0n\u0259/; December 16, 1863 \u2013 September 26, 1952), was a philosopher, essayist, poet, and novelist. Originally from Spain, Santayana was raised and educated in the United States from the age of eight and identified himself as an American, although he always kept a valid Spanish passport. He wrote in English and is generally considered an American man of letters. At the age of forty-eight, Santayana left his position at Harvard and returned to Europe permanently, never to return to the United States. His last wish was to be buried in the Spanish pantheon in Rome. Santayana is popularly known for aphorisms, such as 'Those who cannot remember the past are condemned to repeat it', 'Only the dead have seen the end of war', and the definition of beauty as 'pleasure objectified'. Although an atheist, he always treasured the Spanish Catholic values, practices, and worldview in which he was raised. Santayana was a broad-ranging cultural critic spanning many disciplines.", "homeLocation": "Rome, Italy", "@context": ["http://schema.org"], "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/George_Santayana.jpg", "name": "George_Santayana", "familyName": "Santayana", "knows": "https://en.wikipedia.org/wiki/William_James"}
+{
+  "givenName": "Jorge",
+  "jobTitle": "philosopher, essayist, poet, and novelist",
+  "deathDate": "+1952-09-26T00:00:00Z",
+  "additionalName": "Jorge Agust\u00edn Nicol\u00e1s Ruiz de Santayana y Borr\u00e1s",
+  "deathPlace": "Rome, Italy",
+  "url": "https://en.wikipedia.org/wiki/George_Santayana",
+  "birthDate": "+1863-12-16T00:00:00Z",
+  "sameAs": "",
+  "@type": ["Person"],
+  "birthPlace": "Madrid, Spain",
+  "description": "Jorge Agust\u00edn Nicol\u00e1s Ruiz de Santayana y Borr\u00e1s, known in English as George Santayana (/\u02ccs\u00e6nti\u02c8\u00e6n\u0259/ or /-\u02c8\u0251\u02d0n\u0259/; December 16, 1863 \u2013 September 26, 1952), was a philosopher, essayist, poet, and novelist. Originally from Spain, Santayana was raised and educated in the United States from the age of eight and identified himself as an American, although he always kept a valid Spanish passport. He wrote in English and is generally considered an American man of letters. At the age of forty-eight, Santayana left his position at Harvard and returned to Europe permanently, never to return to the United States. His last wish was to be buried in the Spanish pantheon in Rome. Santayana is popularly known for aphorisms, such as 'Those who cannot remember the past are condemned to repeat it', 'Only the dead have seen the end of war', and the definition of beauty as 'pleasure objectified'. Although an atheist, he always treasured the Spanish Catholic values, practices, and worldview in which he was raised. Santayana was a broad-ranging cultural critic spanning many disciplines.",
+  "homeLocation": "Rome, Italy",
+  "@context": ["http://schema.org"],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/George_Santayana.jpg",
+  "name": "George_Santayana",
+  "familyName": "Santayana",
+  "knows": "https://en.wikipedia.org/wiki/William_James"
+}

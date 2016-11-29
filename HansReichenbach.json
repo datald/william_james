@@ -1,1 +1,19 @@
-{"deathPlace": "Los Angeles, California, U.S.", "jobTitle": "Philosopher", "knows": "https://en.wikipedia.org/wiki/Berlin_Circle", "@context": ["http://schema.org"], "givenName": "Hans", "url": "https://en.wikipedia.org/wiki/Hans_Reichenbach", "familyName": "Reichenbach", "address": "Los Angeles, California, U.S.", "homeLocation": "Los Angeles, California, U.S.", "deathDate": "+1953-04-09T00:00:00Z", "description": "Hans Reichenbach (September 26, 1891 \u2013 April 9, 1953) was a leading philosopher of science, educator, and proponent of logical empiricism. He was influential in the areas of science, education, and of logical empiricism. He founded the Gesellschaft f\u00fcr empirische Philosophie (Society for Empirical Philosophy) in Berlin in 1928, also known as the \u201cBerlin Circle.\u201d Carl Gustav Hempel, Richard von Mises, David Hilbert and Kurt Grelling all became members of the Berlin Circle. He authored The Rise of Scientific Philosophy. In 1930, Reichenbach and Rudolf Carnap became editors of the journal Erkenntnis (Knowledge). He also made lasting contributions to the study of empiricism based on a theory of probability; the logic and the philosophy of mathematics; space, time, and relativity theory; analysis of probabilistic reasoning; and quantum mechanics.", "sameAs": "https://en.wikipedia.org/wiki/Hans_Reichenbach", "name": "Hans Reichenbach", "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/H_Reichenbach.jpg", "birthPlace": "[[Hamburg]], [[German Empire]]", "@type": ["Person"], "birthDate": "+1891-09-26T00:00:00Z"}
+{
+  "deathPlace": "Los Angeles, California, U.S.",
+  "jobTitle": "Philosopher",
+  "knows": "https://en.wikipedia.org/wiki/Berlin_Circle",
+  "@context": ["http://schema.org"],
+  "givenName": "Hans",
+  "url": "https://en.wikipedia.org/wiki/Hans_Reichenbach",
+  "familyName": "Reichenbach",
+  "address": "Los Angeles, California, U.S.",
+  "homeLocation": "Los Angeles, California, U.S.",
+  "deathDate": "+1953-04-09T00:00:00Z",
+  "description": "Hans Reichenbach (September 26, 1891 \u2013 April 9, 1953) was a leading philosopher of science, educator, and proponent of logical empiricism. He was influential in the areas of science, education, and of logical empiricism. He founded the Gesellschaft f\u00fcr empirische Philosophie (Society for Empirical Philosophy) in Berlin in 1928, also known as the \u201cBerlin Circle.\u201d Carl Gustav Hempel, Richard von Mises, David Hilbert and Kurt Grelling all became members of the Berlin Circle. He authored The Rise of Scientific Philosophy. In 1930, Reichenbach and Rudolf Carnap became editors of the journal Erkenntnis (Knowledge). He also made lasting contributions to the study of empiricism based on a theory of probability; the logic and the philosophy of mathematics; space, time, and relativity theory; analysis of probabilistic reasoning; and quantum mechanics.",
+  "sameAs": "https://en.wikipedia.org/wiki/Hans_Reichenbach",
+  "name": "Hans Reichenbach",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/H_Reichenbach.jpg",
+  "birthPlace": "[[Hamburg]], [[German Empire]]",
+  "@type": ["Person"],
+  "birthDate": "+1891-09-26T00:00:00Z"
+}

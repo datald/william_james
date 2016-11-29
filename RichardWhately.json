@@ -1,1 +1,21 @@
-{"deathPlace": "", "jobTitle": "", "knows": "https://en.wikipedia.org/wiki/James_Carlile", "@context": ["http://schema.org"], "givenName": "", "honorificSuffix": "", "url": "https://en.wikipedia.org/wiki/Richard_Whately", "familyName": "Whately", "address": "London, England, United Kingdom", "homeLocation": "London, England, UK", "sameAs": "https://en.wikipedia.org/wiki/Richard_Whately", "description": "Richard Whately (1 February 1787 \u2013 8 October 1863) was an English rhetorician, logician, economist, academic and theologian who also served as a reforming Church of Ireland Archbishop of Dublin. He was a leading Broad Churchman, a prolific and combative author over a wide range of topics, a flamboyant character, and one of the first reviewers to recognise the talents of Jane Austen. Whately was a prolific writer, a successful expositor and Protestant apologist in works that ran to many editions and translations. His Elements of Logic (1826) was drawn from an article 'Logic' in the Encyclop\u00e6dia Metropolitana. The companion article on 'Rhetoric' provided Elements of Rhetoric (1828)", "deathDate": "+1863-10-08T00:00:00Z", "name": "Richard Whately", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Richard_Whately.jpg", "birthPlace": "London, England, United Kingdom", "@type": ["Person"], "birthDate": "+1787-02-01T00:00:00Z", "honorificPrefix": ""}
+{
+  "deathPlace": "",
+  "jobTitle": "",
+  "knows": "https://en.wikipedia.org/wiki/James_Carlile",
+  "@context": ["http://schema.org"],
+  "givenName": "",
+  "honorificSuffix": "",
+  "url": "https://en.wikipedia.org/wiki/Richard_Whately",
+  "familyName": "Whately",
+  "address": "London, England, United Kingdom",
+  "homeLocation": "London, England, UK",
+  "sameAs": "https://en.wikipedia.org/wiki/Richard_Whately",
+  "description": "Richard Whately (1 February 1787 \u2013 8 October 1863) was an English rhetorician, logician, economist, academic and theologian who also served as a reforming Church of Ireland Archbishop of Dublin. He was a leading Broad Churchman, a prolific and combative author over a wide range of topics, a flamboyant character, and one of the first reviewers to recognise the talents of Jane Austen. Whately was a prolific writer, a successful expositor and Protestant apologist in works that ran to many editions and translations. His Elements of Logic (1826) was drawn from an article 'Logic' in the Encyclop\u00e6dia Metropolitana. The companion article on 'Rhetoric' provided Elements of Rhetoric (1828)",
+  "deathDate": "+1863-10-08T00:00:00Z",
+  "name": "Richard Whately",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Richard_Whately.jpg",
+  "birthPlace": "London, England, United Kingdom",
+  "@type": ["Person"],
+  "birthDate": "+1787-02-01T00:00:00Z",
+  "honorificPrefix": ""
+}

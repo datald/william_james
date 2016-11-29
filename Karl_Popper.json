@@ -1,1 +1,20 @@
-{"deathPlace": "London, England, United Kingdom", "jobTitle": "Philosopher", "knows": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein", "@context": ["http://schema.org"], "givenName": "Karl", "url": "https://en.wikipedia.org/wiki/Karl_Popper", "familyName": "Popper", "address": "London, England, United Kingdom", "homeLocation": "Vienna, Austria-Hungary", "deathDate": "+1994-09-17T00:00:00Z", "description": "Sir Karl Raimund Popper CH FBA FRS (28 July 1902 \u2013 17 September 1994) was an Austrian-British philosopher and professor. He is generally regarded as one of the greatest philosophers of science of the 20th century. Popper is known for his rejection of the classical inductivist views on the scientific method, in favour of empirical falsification: A theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can and should be scrutinized by decisive experiments. Popper is also known for his opposition to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely 'the first non-justificational philosophy of criticism in the history of philosophy.' In political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he came to believe made a flourishing open society possible. His political philosophy embraces ideas from all major democratic political ideologies and attempts to reconcile them: socialism/social democracy, libertarianism/classical liberalism and conservatism.", "sameAs": "", "name": "Karl_Popper", "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg", "birthPlace": "Vienna, Austria-Hungary", "@type": ["Person"], "additionalName": "Sir Karl Raimund Popper", "birthDate": "+1902-07-28T00:00:00Z"}
+{
+  "deathPlace": "London, England, United Kingdom",
+  "jobTitle": "Philosopher",
+  "knows": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+  "@context": ["http://schema.org"],
+  "givenName": "Karl",
+  "url": "https://en.wikipedia.org/wiki/Karl_Popper",
+  "familyName": "Popper",
+  "address": "London, England, United Kingdom",
+  "homeLocation": "Vienna, Austria-Hungary",
+  "deathDate": "+1994-09-17T00:00:00Z",
+  "description": "Sir Karl Raimund Popper CH FBA FRS (28 July 1902 \u2013 17 September 1994) was an Austrian-British philosopher and professor. He is generally regarded as one of the greatest philosophers of science of the 20th century. Popper is known for his rejection of the classical inductivist views on the scientific method, in favour of empirical falsification: A theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can and should be scrutinized by decisive experiments. Popper is also known for his opposition to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely 'the first non-justificational philosophy of criticism in the history of philosophy.' In political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he came to believe made a flourishing open society possible. His political philosophy embraces ideas from all major democratic political ideologies and attempts to reconcile them: socialism/social democracy, libertarianism/classical liberalism and conservatism.",
+  "sameAs": "",
+  "name": "Karl_Popper",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg",
+  "birthPlace": "Vienna, Austria-Hungary",
+  "@type": ["Person"],
+  "additionalName": "Sir Karl Raimund Popper",
+  "birthDate": "+1902-07-28T00:00:00Z"
+}
